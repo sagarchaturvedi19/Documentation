@@ -19,7 +19,7 @@ This section details the electrode setups for the various types of biosensing:
 
 -   [EEG Setup](GettingStarted/Biosensing-Setups/01-EEG-Setup.md) — Details how to wire electrodes to gather signals from the brain.
 -   [EMG Setup](GettingStarted/Biosensing-Setups/02-EMG-Setup.md) — Details how to wire electrodes to gather signals from different muscle groups.
--   [ECG Setup](GettingStarted/Biosensing-Setups/03-ECG-Setup.md) — Details how to wire electrodes to gather signals from different muscle groups.
+-   [ECG Setup](GettingStarted/Biosensing-Setups/03-ECG-Setup.md) — Details how to wire electrodes to gather signals from the heart rhythm.
 
 ## Community
 
